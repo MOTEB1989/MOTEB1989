@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @MOTEB1989
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 مرحبًا، أنا @RAGHADHA!
 
-<!---
-MOTEB1989/MOTEB1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 مهتم بتحليل المعرفات، الذكاء الاصطناعي، وأدوات OSINT.
+
+🌱 أعمل حاليًا على مشروع CITE-Raghd باستخدام UserTrace Engine وطبقة Correlation.
+
+💞️ أبحث عن تعاون في تطوير أدوات تتبع وتحليل داخل بيئة تيليجرام وGitHub.
+
+📫 يمكن التواصل معي عبر بوتي: [@raghadaibot](https://t.me/raghadaibot)
+
+😄 الضمائر: هو/هي (حسب السياق التحليلي)
+
+⚡ معلومة ممتعة: أؤمن أن كل معرف يحمل قصة، وكل ارتباط يكشف خريطة.
